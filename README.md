@@ -1,2 +1,2 @@
 # tindog
-tindog - spoof of tinder only for dog. It is a simple Frontend developed using HTML,CSS and Bootstrap 4
+tindog - spoof of tinder only for dogs😂🤣 . It is a simple Frontend developed using HTML,CSS and Bootstrap 4
